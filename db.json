@@ -1,0 +1,183 @@
+{
+  "students": [
+    {
+      "enrollmentNo": "2023001",
+      "name": "Alice Johnson",
+      "courseName": "Piano",
+      "fees": 1500,
+      "enrollmentDate": "2023-09-01"
+    },
+    {
+      "enrollmentNo": "2023002",
+      "name": "John Smith",
+      "courseName": "Guitar",
+      "fees": 1200,
+      "enrollmentDate": "2023-09-02"
+    },
+    {
+      "enrollmentNo": "2023003",
+      "name": "Michael Brown",
+      "courseName": "Violin",
+      "fees": 1800,
+      "enrollmentDate": "2023-09-03"
+    },
+    {
+      "enrollmentNo": "2023004",
+      "name": "Emily Davis",
+      "courseName": "Singing",
+      "fees": 1400,
+      "enrollmentDate": "2023-09-04"
+    },
+    {
+      "enrollmentNo": "2023005",
+      "name": "David Wilson",
+      "courseName": "Drums",
+      "fees": 1600,
+      "enrollmentDate": "2023-09-05"
+    }
+  ],
+  "bestStudents": [
+    {
+      "registrationNo": "2023001",
+      "firstName": "John",
+      "lastName": "Smith",
+      "courseNumber": "C101",
+      "totalFees": 1500,
+      "registrationDate": "2023-09-01"
+    },
+    {
+      "registrationNo": "2023002",
+      "firstName": "Alice",
+      "lastName": "Johnson",
+      "courseNumber": "C102",
+      "totalFees": 1200,
+      "registrationDate": "2023-09-02"
+    },
+    {
+      "registrationNo": "2023003",
+      "firstName": "Michael",
+      "lastName": "Brown",
+      "courseNumber": "C103",
+      "totalFees": 1800,
+      "registrationDate": "2023-09-03"
+    },
+    {
+      "registrationNo": "2023004",
+      "firstName": "Emily",
+      "lastName": "Davis",
+      "courseNumber": "C104",
+      "totalFees": 1400,
+      "registrationDate": "2023-09-04"
+    },
+    {
+      "registrationNo": "2023005",
+      "firstName": "David",
+      "lastName": "Wilson",
+      "courseNumber": "C105",
+      "totalFees": 1600,
+      "registrationDate": "2023-09-05"
+    }
+  ],
+  "courses": [
+    {
+      "courseName": "Guitar Basics",
+      "description": "Learn the fundamentals of playing the guitar.",
+      "instructor": "John Smith",
+      "instrument": "Guitar",
+      "dayOfWeek": "Monday",
+      "numberOfStudents": 15,
+      "price": 200,
+      "status": "Active"
+    },
+    {
+      "courseName": "Piano Masterclass",
+      "description": "Advanced piano techniques and theory.",
+      "instructor": "Alice Johnson",
+      "instrument": "Piano",
+      "dayOfWeek": "Wednesday",
+      "numberOfStudents": 10,
+      "price": 250,
+      "status": "Active"
+    },
+    {
+      "courseName": "Singing for Beginners",
+      "description": "Discover your singing voice.",
+      "instructor": "Michael Brown",
+      "instrument": "Vocal",
+      "dayOfWeek": "Tuesday",
+      "numberOfStudents": 12,
+      "price": 150,
+      "status": "Closed"
+    },
+    {
+      "courseName": "Drum Workshop",
+      "description": "Get hands-on with drumming techniques.",
+      "instructor": "Emily Davis",
+      "instrument": "Drums",
+      "dayOfWeek": "Thursday",
+      "numberOfStudents": 8,
+      "price": 180,
+      "status": "Active"
+    },
+    {
+      "courseName": "Violin Mastery",
+      "description": "Advanced violin techniques and performance.",
+      "instructor": "David Wilson",
+      "instrument": "Violin",
+      "dayOfWeek": "Friday",
+      "numberOfStudents": 10,
+      "price": 280,
+      "status": "Active"
+    },
+    {
+      "courseName": "Songwriting Workshop",
+      "description": "Craft your own songs and lyrics.",
+      "instructor": "Olivia Anderson",
+      "instrument": "Songwriting",
+      "dayOfWeek": "Monday",
+      "numberOfStudents": 14,
+      "price": 220,
+      "status": "Active"
+    },
+    {
+      "courseName": "Bass Guitar Fundamentals",
+      "description": "Learn the basics of playing bass guitar.",
+      "instructor": "Daniel Garcia",
+      "instrument": "Bass Guitar",
+      "dayOfWeek": "Wednesday",
+      "numberOfStudents": 9,
+      "price": 190,
+      "status": "Active"
+    },
+    {
+      "courseName": "Flute for Beginners",
+      "description": "Introduction to flute playing and music theory.",
+      "instructor": "Sophia Martinez",
+      "instrument": "Flute",
+      "dayOfWeek": "Tuesday",
+      "numberOfStudents": 10,
+      "price": 170,
+      "status": "Archive"
+    },
+    {
+      "courseName": "Electronic Music Production",
+      "description": "Create electronic music using software and hardware.",
+      "instructor": "Ethan Clark",
+      "instrument": "Electronic Music",
+      "dayOfWeek": "Thursday",
+      "numberOfStudents": 15,
+      "price": 260,
+      "status": "Active"
+    },
+    {
+      "courseName": "Classical Guitar Masterclass",
+      "description": "Advanced techniques for classical guitarists.",
+      "instructor": "Sophie Turner",
+      "instrument": "Classical Guitar",
+      "dayOfWeek": "Friday",
+      "numberOfStudents": 8,
+      "price": 230,
+      "status": "Closed"
+    }
+  ]
+}
